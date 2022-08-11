@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mel-san
-- 🌱 I’m currently a third-year student at the University of Nevada, Reno studying Computer Science and Engineering
+- 🌱 I’m currently a senior at the University of Nevada, Reno studying Computer Science and Engineering
 - 📫 You can reach via e-mail at melaniesanchez@nevada.unr.edu
 
 <!---
